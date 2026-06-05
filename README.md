@@ -7,7 +7,7 @@
 * Je suis en **Première année en études d'informatique**.
 * J'aime travailler sur des projets liés à **la création de jeux videos** car c'est dans quoi j'aimerais travailler plus tard !
 
-##  Mes Languages Connus :
+##  Mes Langages Connus :
 
 **Langages :**<br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br>
