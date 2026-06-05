@@ -1,4 +1,4 @@
-# 👾 Salut, moi c'est [Ton Pseudo] !
+# 👾 Salut, moi c'est Lilianus !
 
 > Étudiant en BUT Informatique · Futur dev jeu vidéo 🎮
 
@@ -27,21 +27,10 @@
 
 ## 🎮 Ce que je veux faire
 
-Mon objectif : travailler dans le **développement de jeux vidéo**. J'explore Unity avec C#, la logique de gameplay, et j'aime construire des mécaniques de jeu from scratch. Chaque projet est une étape de plus vers cet objectif.
-
----
-
-## 📊 Mes stats GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight"/>
-</div>
+Mon objectif : travailler dans le **développement de jeux vidéo**. J'explore Godot / Unity avec le GDScript / C#, la logique de gameplay, et j'aime construire des mécaniques de jeu "from scratch". Chaque projet est une étape de plus vers cet objectif.
 
 ---
 
 ## 📬 Me contacter
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:TON_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_PROFIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=github&logoColor=white)](https://TON_SITE)
+NINJAAAA
