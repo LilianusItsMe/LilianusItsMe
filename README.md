@@ -33,4 +33,4 @@ Mon objectif : travailler dans le **développement de jeux vidéo**. J'explore G
 
 ## 📬 Me contacter
 
-NINJAAAA
+**Mon discord** : lilianuuus
