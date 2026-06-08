@@ -37,7 +37,19 @@ Mon objectif : travailler dans le **développement de jeux vidéo**. J'explore G
 
 ---
 
-## Prokets
+## Projets
+
+## Site et réservations trajets en bateaux du CAN
+
+Nous avons du créer un système de réservation en c# pour des trajets en bateau reliant différentes iles de bretagne, ceci relié à un site web permettant de voir sa réservation et d'avoir + d'infos, cela à permis d'apprendre les bases du C# , HTML, CSS, JavaScript
+
+## Projet stargate
+
+Pour celui-ci nous avons du créer une application pouvant être utilisé dans la base secrète de la série stargate, permettant de créer des missions, voirs toutes les infos des missions, les infos des différentes planètes, des races alliées et ennemis etc... autant en mode connécté que déconnecté, cela à permis d'apprendre beaucoup sur l'utilisation des winforms de visual studio.
+
+## Remake du jeu INSCRYPTION
+
+Il a fallu recréer une partie du jeu INSCRYPTION en java, il devait se jouer en mode "texte" et implémenter des classe abstraites, normales, enum, interface, etc... cela à permis d'énormément approfondir les connaissances des bases du java .
 
 ---
 
