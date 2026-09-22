@@ -57,5 +57,3 @@ Il a fallu recréer une partie du jeu INSCRYPTION en java, il devait se jouer en
 
 **Mon discord** : lilianuuus
 
-
-salut, génère moi un git bien meilleur, avec aussi genre un petit jeu dedans et par exemple une vidéo poru décorer
