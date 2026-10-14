@@ -1,59 +1,225 @@
-# 👾 Salut, moi c'est Lilianus !
+<!-- ═══════════════ HEADER ═══════════════ -->
+<div align="center">
 
-> Étudiant en BUT Informatique · Futur dev jeu vidéo 🎮
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:9d4dff,100:ff00e5&height=230&section=header&text=LILIANUS&fontSize=75&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=%E2%9A%94%EF%B8%8F%20Etudiant%20BUT%20Info%20%C2%B7%20Futur%20dev%20jeu%20vid%C3%A9o%20%E2%9A%94%EF%B8%8F&descSize=20&descAlignY=60" width="100%" alt="header"/>
 
----
+<a href="https://github.com/LilianusItsMe">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&height=50&lines=%3E+PLAYER+1+READY...;%3E+Je+code+des+jeux+vid%C3%A9o+%F0%9F%8E%AE;%3E+Godot+%7C+Unity+%7C+C%23+%7C+Java;%3E+LOADING+NEXT+PROJECT..." alt="Typing SVG" />
+</a>
 
-## 🧑‍💻 À propos de moi
+<br/>
 
-- 🎓 En **1ère année de BUT Informatique**
-- 🕹️ Passionné par la **création de jeux vidéo** — c'est mon objectif de carrière
-- 🚀 J'apprends, je code, je crée
-- 🌍 Basé en France
+![Niveau](https://img.shields.io/badge/NIVEAU-BUT_INFO_1%C3%A8re_ANN%C3%89E-00f0ff?style=for-the-badge&labelColor=0a0e17)
+![Classe](https://img.shields.io/badge/CLASSE-GAME_DEV-ff00e5?style=for-the-badge&labelColor=0a0e17)
+![Zone](https://img.shields.io/badge/ZONE-FRANCE_%F0%9F%87%AB%F0%9F%87%B7-9d4dff?style=for-the-badge&labelColor=0a0e17)
 
----
+<br/>
 
-## 🛠️ Langages & outils <br>
+<img src="./assets/hero.svg" width="100%" alt="Neon hero"/>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+</div>
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e5&height=3" width="100%" alt="divider"/>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+## 🕹️ PLAYER 1 — Sélection du personnage
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<div align="center">
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2500&pause=800&color=FF00E5&center=true&vCenter=true&width=600&height=40&lines=%E2%96%B6+CHARACTER+SELECT;%E2%96%B6+PLAYER+1+%3A+LILIANUS;%E2%96%B6+PRESS+START" alt="Character select" />
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<table>
+<tr>
+<td align="center" valign="middle" width="240">
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<img src="https://github.com/LilianusItsMe.png" width="200" alt="Avatar"/>
 
----
+<br/>
 
-## 🎮 Ce que je veux faire
+![LVL](https://img.shields.io/badge/LVL-01-00f0ff?style=for-the-badge&labelColor=0a0e17)
+![HP](https://img.shields.io/badge/HP-100%25-ff00e5?style=for-the-badge&labelColor=0a0e17)
+![CLASS](https://img.shields.io/badge/CLASS-GAME_DEV-9d4dff?style=for-the-badge&labelColor=0a0e17)
 
-Mon objectif : travailler dans le **développement de jeux vidéo**. J'explore Godot / Unity avec le GDScript / C#, la logique de gameplay, et j'aime construire des mécaniques de jeu "from scratch". Chaque projet est une étape de plus vers cet objectif.
+</td>
+<td valign="middle">
 
----
+```text
+┌─────────────────────────────────────────────┐
+│ ▶ LILIANUS                         LVL 01   │
+│ CLASSE  : Game Dev en formation             │
+│ GUILDE  : BUT Informatique (1ère année)     │
+│ SPAWN   : France                            │
+├─────────────────────────────────────────────┤
+│ HP         ██████████  100                  │
+│ XP         ████░░░░░░   40  -> LVL 02       │
+│ C#         ███████░░░   70                  │
+│ JAVA       ██████░░░░   60                  │
+│ WEB        █████░░░░░   50                  │
+│ MOTIVATION ██████████  MAX                  │
+├─────────────────────────────────────────────┤
+│ QUÊTE EN COURS : mon 1er jeu Godot / Unity  │
+│ ÉQUIPEMENT     : Godot - Unity - VS Studio  │
+└─────────────────────────────────────────────┘
+```
 
-## Projets
+</td>
+</tr>
+</table>
 
-## Site et réservations trajets en bateaux du CAN
+</div>
 
-Nous avons du créer un système de réservation en c# pour des trajets en bateau reliant différentes iles de bretagne, ceci relié à un site web permettant de voir sa réservation et d'avoir + d'infos, cela à permis d'apprendre les bases du C# , HTML, CSS, JavaScript
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00e5,100:00f0ff&height=3" width="100%" alt="divider"/>
 
-## Projet stargate
+## 🎒 Inventaire
 
-Pour celui-ci nous avons du créer une application pouvant être utilisé dans la base secrète de la série stargate, permettant de créer des missions, voirs toutes les infos des missions, les infos des différentes planètes, des races alliées et ennemis etc... autant en mode connécté que déconnecté, cela à permis d'apprendre beaucoup sur l'utilisation des winforms de visual studio.
+### ⚔️ Langages
 
-## Remake du jeu INSCRYPTION
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=0a0e17&color=00f0ff" alt="C#"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=0a0e17&color=ff00e5" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&labelColor=0a0e17&color=9d4dff" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=0a0e17&color=00f0ff" alt="C"/>
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0a0e17&color=ff00e5" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0a0e17&color=9d4dff" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0a0e17&color=00f0ff" alt="CSS3"/>
+</p>
 
-Il a fallu recréer une partie du jeu INSCRYPTION en java, il devait se jouer en mode "texte" et implémenter des classe abstraites, normales, enum, interface, etc... cela à permis d'énormément approfondir les connaissances des bases du java .
+### 🎮 Moteurs de jeu *(en exploration)*
 
----
+<p>
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=0a0e17&color=ff00e5" alt="Godot"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=0a0e17&color=9d4dff" alt="Unity"/>
+  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=0a0e17&color=00f0ff" alt="GDScript"/>
+</p>
 
-## 📬 Me contacter
+### 🧰 Outils
 
-**Mon discord** : lilianuuus
+<p>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&labelColor=0a0e17&color=ff00e5" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0e17&color=00f0ff" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0e17&color=9d4dff" alt="GitHub"/>
+</p>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e5&height=3" width="100%" alt="divider"/>
+
+## 🎯 Objectif de la partie
+
+> **Travailler dans le développement de jeux vidéo.**
+
+J'explore **Godot** et **Unity** (GDScript / C#), la logique de gameplay, et j'adore construire des mécaniques de jeu *from scratch*.
+Chaque projet est un niveau de plus vers cet objectif. 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00e5,100:00f0ff&height=3" width="100%" alt="divider"/>
+
+## 📜 Journal de quêtes
+
+### 🚢 QUÊTE 01 — Site & réservations de trajets en bateau du CAN
+`✅ TERMINÉE`
+
+<table>
+<tr>
+<td width="48%" valign="middle">
+
+<img src="./assets/quest01.svg" width="100%" alt="🚢 QUÊTE 01 — Site & réservations de trajets en bateau du CAN"/>
+
+</td>
+<td valign="middle">
+
+Création d'un **système de réservation en C#** pour des trajets en bateau reliant différentes îles de Bretagne, connecté à un **site web** permettant de consulter sa réservation et d'obtenir plus d'infos.
+
+> 🏆 **Butin :** les bases du C#, HTML, CSS et JavaScript
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&labelColor=0a0e17) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0a0e17) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0a0e17) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0a0e17)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🌀 QUÊTE 02 — Projet Stargate
+`✅ TERMINÉE`
+
+<table>
+<tr>
+<td width="48%" valign="middle">
+
+<img src="./assets/quest02.svg" width="100%" alt="🌀 QUÊTE 02 — Projet Stargate"/>
+
+</td>
+<td valign="middle">
+
+Application destinée à la **base secrète de la série Stargate** : créer des missions, consulter leurs infos, celles des différentes planètes, des races alliées et ennemies, etc. Fonctionne **en mode connecté et déconnecté**.
+
+> 🏆 **Butin :** une solide maîtrise des WinForms de Visual Studio
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&labelColor=0a0e17) ![WinForms](https://img.shields.io/badge/WinForms-5C2D91?style=flat-square&labelColor=0a0e17)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🃏 QUÊTE 03 — Remake du jeu Inscryption
+`✅ TERMINÉE`
+
+<table>
+<tr>
+<td width="48%" valign="middle">
+
+<img src="./assets/quest03.svg" width="100%" alt="🃏 QUÊTE 03 — Remake du jeu Inscryption"/>
+
+</td>
+<td valign="middle">
+
+Recréation d'une partie du jeu **Inscryption en Java**, jouable en **mode texte**, avec classes abstraites, classes normales, enums, interfaces, etc.
+
+> 🏆 **Butin :** une énorme progression dans les bases du Java
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0a0e17) ![POO](https://img.shields.io/badge/POO-9d4dff?style=flat-square&labelColor=0a0e17)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🔒 QUÊTE 04 — ???
+`⏳ EN COURS DE CHARGEMENT...` — mon premier vrai jeu sous Godot / Unity arrive bientôt.
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00e5,100:00f0ff&height=3" width="100%" alt="divider"/>
+
+## 🎬 Replays
+
+<div align="center">
+
+<img src="./assets/video-soon.svg" width="75%" alt="Replay en cours de chargement"/>
+
+</div>
+
+<!--
+  ═══ AJOUTER UNE VRAIE VIDÉO ═══
+  1. Clique sur le crayon (modifier) de ce README sur GitHub.
+  2. Glisse-dépose ton fichier .mp4 (max 100 Mo) dans l'éditeur :
+     GitHub génère un lien https://github.com/user-attachments/assets/...
+  3. Colle ce lien SEUL sur sa ligne, sous l'image ci-dessus.
+  Astuce : un .gif (glissé pareil) marche aussi pour une boucle courte.
+-->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e5&height=3" width="100%" alt="divider"/>
+
+## 📬 Rejoindre ma partie
+
+<div align="center">
+
+<a href="https://discord.com/users/lilianuuus">
+  <img src="https://img.shields.io/badge/DISCORD-lilianuuus-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0e17" alt="Discord"/>
+</a>
+
+<br/><br/>
+
+`🎮 PRESS START TO COLLAB 🎮`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00e5,50:9d4dff,100:00f0ff&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
