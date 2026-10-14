@@ -9,7 +9,7 @@
 
 <br/>
 
-![Niveau](https://img.shields.io/badge/NIVEAU-BUT_INFO_1%C3%A8re_ANN%C3%89E-00f0ff?style=for-the-badge&labelColor=0a0e17)
+![Niveau](https://img.shields.io/badge/NIVEAU-BUT_INFO_2%C3%A8re_ANN%C3%89E-00f0ff?style=for-the-badge&labelColor=0a0e17)
 ![Classe](https://img.shields.io/badge/CLASSE-GAME_DEV-ff00e5?style=for-the-badge&labelColor=0a0e17)
 ![Zone](https://img.shields.io/badge/ZONE-FRANCE_%F0%9F%87%AB%F0%9F%87%B7-9d4dff?style=for-the-badge&labelColor=0a0e17)
 
@@ -35,7 +35,7 @@
 
 <br/>
 
-![LVL](https://img.shields.io/badge/LVL-01-00f0ff?style=for-the-badge&labelColor=0a0e17)
+![LVL](https://img.shields.io/badge/LVL-09-00f0ff?style=for-the-badge&labelColor=0a0e17)
 ![HP](https://img.shields.io/badge/HP-100%25-ff00e5?style=for-the-badge&labelColor=0a0e17)
 ![CLASS](https://img.shields.io/badge/CLASS-GAME_DEV-9d4dff?style=for-the-badge&labelColor=0a0e17)
 
@@ -44,20 +44,19 @@
 
 ```text
 ┌─────────────────────────────────────────────┐
-│ ▶ LILIANUS                         LVL 01   │
+│ ▶ LILIANUS                         LVL 09   │
 │ CLASSE  : Game Dev en formation             │
-│ GUILDE  : BUT Informatique (1ère année)     │
+│ GUILDE  : BUT Informatique (2ère année)     │
 │ SPAWN   : France                            │
 ├─────────────────────────────────────────────┤
 │ HP         ██████████  100                  │
-│ XP         ████░░░░░░   40  -> LVL 02       │
-│ C#         ███████░░░   70                  │
-│ JAVA       ██████░░░░   60                  │
-│ WEB        █████░░░░░   50                  │
+│ XP         ████░░░░░░   40  -> LVL 10       │
+│ Mana       ███████░░░   70                  │
+│ Strenght   ██████░░░░   60                  │
+│ SPEED      █████░░░░░   60                  │
 │ MOTIVATION ██████████  MAX                  │
 ├─────────────────────────────────────────────┤
-│ QUÊTE EN COURS : mon 1er jeu Godot / Unity  │
-│ ÉQUIPEMENT     : Godot - Unity - VS Studio  │
+│ QUÊTE EN COURS : Recherche De Stage         │
 └─────────────────────────────────────────────┘
 ```
 
@@ -185,7 +184,7 @@ Recréation d'une partie du jeu **Inscryption en Java**, jouable en **mode texte
 <br/>
 
 ### 🔒 QUÊTE 04 — ???
-`⏳ EN COURS DE CHARGEMENT...` — mon premier vrai jeu sous Godot / Unity arrive bientôt.
+`⏳ EN COURS DE CHARGEMENT...` — mon premier vrai jeu sous Godot arrive bientôt.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00e5,100:00f0ff&height=3" width="100%" alt="divider"/>
 
@@ -197,14 +196,6 @@ Recréation d'une partie du jeu **Inscryption en Java**, jouable en **mode texte
 
 </div>
 
-<!--
-  ═══ AJOUTER UNE VRAIE VIDÉO ═══
-  1. Clique sur le crayon (modifier) de ce README sur GitHub.
-  2. Glisse-dépose ton fichier .mp4 (max 100 Mo) dans l'éditeur :
-     GitHub génère un lien https://github.com/user-attachments/assets/...
-  3. Colle ce lien SEUL sur sa ligne, sous l'image ci-dessus.
-  Astuce : un .gif (glissé pareil) marche aussi pour une boucle courte.
--->
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e5&height=3" width="100%" alt="divider"/>
 
