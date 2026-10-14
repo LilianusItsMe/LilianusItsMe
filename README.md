@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="./assets/hero.svg" width="100%" alt="Neon hero"/>
+<img src="./hero.svg" width="100%" alt="Neon hero"/>
 
 </div>
 
@@ -119,7 +119,7 @@ Chaque projet est un niveau de plus vers cet objectif. 🚀
 <tr>
 <td width="48%" valign="middle">
 
-<img src="./assets/quest01.svg" width="100%" alt="🚢 QUÊTE 01 — Site & réservations de trajets en bateau du CAN"/>
+<img src="./quest01.svg" width="100%" alt="🚢 QUÊTE 01 — Site & réservations de trajets en bateau du CAN"/>
 
 </td>
 <td valign="middle">
@@ -143,7 +143,7 @@ Création d'un **système de réservation en C#** pour des trajets en bateau rel
 <tr>
 <td width="48%" valign="middle">
 
-<img src="./assets/quest02.svg" width="100%" alt="🌀 QUÊTE 02 — Projet Stargate"/>
+<img src="./quest02.svg" width="100%" alt="🌀 QUÊTE 02 — Projet Stargate"/>
 
 </td>
 <td valign="middle">
@@ -167,7 +167,7 @@ Application destinée à la **base secrète de la série Stargate** : créer des
 <tr>
 <td width="48%" valign="middle">
 
-<img src="./assets/quest03.svg" width="100%" alt="🃏 QUÊTE 03 — Remake du jeu Inscryption"/>
+<img src="./quest03.svg" width="100%" alt="🃏 QUÊTE 03 — Remake du jeu Inscryption"/>
 
 </td>
 <td valign="middle">
@@ -193,7 +193,7 @@ Recréation d'une partie du jeu **Inscryption en Java**, jouable en **mode texte
 
 <div align="center">
 
-<img src="./assets/video-soon.svg" width="75%" alt="Replay en cours de chargement"/>
+<img src="./video-soon.svg" width="75%" alt="Replay en cours de chargement"/>
 
 </div>
 
