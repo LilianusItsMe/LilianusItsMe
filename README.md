@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2500&pause=800&color=FF00E5&center=true&vCenter=true&width=900&height=40&lines=EN+TRAIN+DE+JOUER+A+CREER+DES+JEUX+VIDEOS" alt="Character select" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2500&pause=800&color=FF00E5&center=true&vCenter=true&width=900&height=40&lines=EN+TRAIN+DE+JOUER+A+CREER+DES+JEUX+VIDEO" alt="Character select" />
 
 <table>
 <tr>
@@ -35,7 +35,7 @@
 
 <br/>
 
-![LVL](https://img.shields.io/badge/LVL-09-00f0ff?style=for-the-badge&labelColor=0a0e17)
+![LVL](https://img.shields.io/badge/LVL-01-00f0ff?style=for-the-badge&labelColor=0a0e17)
 ![HP](https://img.shields.io/badge/HP-100%25-ff00e5?style=for-the-badge&labelColor=0a0e17)
 ![CLASS](https://img.shields.io/badge/CLASS-GAME_DEV-9d4dff?style=for-the-badge&labelColor=0a0e17)
 
@@ -44,7 +44,7 @@
 
 ```text
 ┌─────────────────────────────────────────────┐
-│ ▶ LILIANUS                         LVL 09   │
+│ ▶ LILIANUS                          LVL 01  │
 │ CLASSE  : Game Dev en formation             │
 │ GUILDE  : BUT Informatique (2ème année)     │
 │ SPAWN   : France                            │
