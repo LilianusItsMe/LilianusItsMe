@@ -188,13 +188,6 @@ Recréation d'une partie du jeu **Inscryption en Java**, jouable en **mode texte
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00e5,100:00f0ff&height=3" width="100%" alt="divider"/>
 
-## 🎬 Replays
-
-<div align="center">
-
-<img src="./video-soon.svg" width="75%" alt="Replay en cours de chargement"/>
-
-</div>
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e5&height=3" width="100%" alt="divider"/>
