@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:9d4dff,100:ff00e5&height=230&section=header&text=LILIANUS&fontSize=75&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=%E2%9A%94%EF%B8%8F%20Etudiant%20BUT%20Info%20%C2%B7%20Futur%20dev%20jeu%20vid%C3%A9o%20%E2%9A%94%EF%B8%8F&descSize=20&descAlignY=60" width="100%" alt="header"/>
 
 <a href="https://github.com/LilianusItsMe">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=720&height=50&lines=%3E+PLAYER+1+READY...;%3E+Je+code+des+jeux+vid%C3%A9o+%F0%9F%8E%AE;%3E+Godot+%7C+Unity+%7C+C%23+%7C+Java;%3E+LOADING+NEXT+PROJECT..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&height=50&lines=EN+TRAIN+DE+JOUER+A+CREER+DES+JEUX+VIDEOS" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2500&pause=800&color=FF00E5&center=true&vCenter=true&width=600&height=40&lines=%E2%96%B6+CHARACTER+SELECT;%E2%96%B6+PLAYER+1+%3A+LILIANUS;%E2%96%B6+PRESS+START" alt="Character select" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=2500&pause=800&color=FF00E5&center=true&vCenter=true&width=900&height=40&lines=EN+TRAIN+DE+JOUER+A+CREER+DES+JEUX+VIDEOS" alt="Character select" />
 
 <table>
 <tr>
@@ -46,13 +46,13 @@
 ┌─────────────────────────────────────────────┐
 │ ▶ LILIANUS                         LVL 09   │
 │ CLASSE  : Game Dev en formation             │
-│ GUILDE  : BUT Informatique (2ère année)     │
+│ GUILDE  : BUT Informatique (2ème année)     │
 │ SPAWN   : France                            │
 ├─────────────────────────────────────────────┤
 │ HP         ██████████  100                  │
 │ XP         ████░░░░░░   40  -> LVL 10       │
 │ Mana       ███████░░░   70                  │
-│ Strenght   ██████░░░░   60                  │
+│ Strength   ██████░░░░   60                  │
 │ SPEED      █████░░░░░   60                  │
 │ MOTIVATION ██████████  MAX                  │
 ├─────────────────────────────────────────────┤
