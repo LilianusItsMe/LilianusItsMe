@@ -45,12 +45,12 @@
 ```text
 ┌─────────────────────────────────────────────┐
 │ ▶ LILIANUS                          LVL 01  │
-│ CLASSE  : Game Dev en formation             │
+│ CLASSE  : Etudiant                          │
 │ GUILDE  : BUT Informatique (2ème année)     │
 │ SPAWN   : France                            │
 ├─────────────────────────────────────────────┤
 │ HP         ██████████  100                  │
-│ XP         ████░░░░░░   40  -> LVL 10       │
+│ XP         ████░░░░░░   40  -> LVL 02       │
 │ Mana       ███████░░░   70                  │
 │ Strength   ██████░░░░   60                  │
 │ SPEED      █████░░░░░   60                  │
