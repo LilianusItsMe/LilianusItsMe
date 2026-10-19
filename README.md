@@ -45,7 +45,7 @@
 ```text
 ┌─────────────────────────────────────────────┐
 │ ▶ LILIANUS                          LVL 01  │
-│ CLASSE  : Etudiant                          │
+│ CLASSE  : Futur GameDev                     │
 │ GUILDE  : BUT Informatique (2ème année)     │
 │ SPAWN   : France                            │
 ├─────────────────────────────────────────────┤
@@ -104,7 +104,7 @@
 
 > **Travailler dans le développement de jeux vidéo.**
 
-J'explore **Godot** et **Unity** (GDScript / C#), la logique de gameplay, et j'adore construire des mécaniques de jeu *from scratch*.
+J'explore **Godot** et **Unity** (GDScript / C#), la logique de gameplay, et j'adore construire des mécaniques de jeu .
 Chaque projet est un niveau de plus vers cet objectif. 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00e5,100:00f0ff&height=3" width="100%" alt="divider"/>
@@ -149,7 +149,7 @@ Création d'un **système de réservation en C#** pour des trajets en bateau rel
 
 Application destinée à la **base secrète de la série Stargate** : créer des missions, consulter leurs infos, celles des différentes planètes, des races alliées et ennemies, etc. Fonctionne **en mode connecté et déconnecté**.
 
-> 🏆 **Butin :** une solide maîtrise des WinForms de Visual Studio
+> 🏆 **Butin :** une bonne maîtrise des WinForms de Visual Studio
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&labelColor=0a0e17) ![WinForms](https://img.shields.io/badge/WinForms-5C2D91?style=flat-square&labelColor=0a0e17)
 
@@ -173,7 +173,7 @@ Application destinée à la **base secrète de la série Stargate** : créer des
 
 Recréation d'une partie du jeu **Inscryption en Java**, jouable en **mode texte**, avec classes abstraites, classes normales, enums, interfaces, etc.
 
-> 🏆 **Butin :** une énorme progression dans les bases du Java
+> 🏆 **Butin :** une grosse progression dans les bases du Java
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=0a0e17) ![POO](https://img.shields.io/badge/POO-9d4dff?style=flat-square&labelColor=0a0e17)
 
@@ -196,8 +196,8 @@ Recréation d'une partie du jeu **Inscryption en Java**, jouable en **mode texte
 
 <div align="center">
 
-<a href="https://discord.com/users/lilianuuus">
-  <img src="https://img.shields.io/badge/DISCORD-lilianuuus-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0e17" alt="Discord"/>
+<a href="https://discord.com/users/LilianusItsMe">
+  <img src="https://img.shields.io/badge/DISCORD-LilianusItsMe-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0a0e17" alt="Discord"/>
 </a>
 
 <br/><br/>
