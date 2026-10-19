@@ -87,7 +87,6 @@
 <p>
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=0a0e17&color=ff00e5" alt="Godot"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=0a0e17&color=9d4dff" alt="Unity"/>
-  <img src="https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white&labelColor=0a0e17&color=00f0ff" alt="GDScript"/>
 </p>
 
 ### 🧰 Outils
