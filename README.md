@@ -127,7 +127,7 @@ Création d'un **système de réservation en C#** pour des trajets en bateau rel
 
 > 🏆 **Butin :** les bases du C#, HTML, CSS et JavaScript
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&labelColor=0a0e17) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0a0e17) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0a0e17) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=0a0e17)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white&labelColor=0a0e17) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=0a0e17) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&labelColor=0a0e17) 
 
 </td>
 </tr>
@@ -184,7 +184,7 @@ Recréation d'une partie du jeu **Inscryption en Java**, jouable en **mode texte
 <br/>
 
 ### 🔒 QUÊTE 04 — ???
-`⏳ EN COURS DE CHARGEMENT...` — mon premier vrai jeu sous Godot arrive bientôt.
+`⏳ EN COURS DE CHARGEMENT...` — mon premier jeu steam sous Godot arrive bientôt.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00e5,100:00f0ff&height=3" width="100%" alt="divider"/>
 
